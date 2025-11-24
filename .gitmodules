@@ -1,0 +1,9 @@
+[submodule "MODULO 3 DS/ejercicios/finanzas"]
+	path = MODULO 3 DS/ejercicios/finanzas
+	url = https://github.com/carres1995/DevSenior-Modulos.git
+[submodule "MODULO 3 DS/tutorias/PERSONAJES/rpg-game"]
+	path = MODULO 3 DS/tutorias/PERSONAJES/rpg-game
+	url = https://github.com/carres1995/DevSenior-Modulos.git
+[submodule "MODULO 4 DS/ejercicios/ejercicios"]
+	path = MODULO 4 DS/ejercicios/ejercicios
+	url = https://github.com/carres1995/DevSenior-Modulos.git
